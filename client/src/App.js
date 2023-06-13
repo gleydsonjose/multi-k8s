@@ -13,7 +13,7 @@ function App() {
           <p>
             Edit <code>src/App.js</code> and save to reload.
           </p>
-          <h1 className='App-title'>Fib Calculator version 2</h1>
+          <h1 className='App-title'>Fib Calculator version KUBERNETES!</h1>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
         </header>
